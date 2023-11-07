@@ -1,3 +1,5 @@
-Este es el fichcero README.md.
-
-Soy Iván Jiménez Quintero
+NOMBRE|GITHUB
+| -------------------- | --------------- |
+| NAYELI GOMEZ | (https://github.com/nayOOegomez)|
+| RAFA RODRIGUEZ | (https://github.com/rrodmen709)|
+| ADRIAN | (https://github.com/hey-adri)|
